@@ -12,8 +12,7 @@ a webpage that help you to manage your projects
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Notes](#notes)
-- [License](#licence)
-- [Questions](#Questions)
+
 
 ## Instalation
 npm i, npm run build, npm run seed, npm run start:dev or login in the webpage
@@ -30,7 +29,7 @@ with insomnia
 ## Notes
 
 > [!NOTE]
-> please login with jollyuser-password or gerardo- password
+> please login with JollyGuru - password or gerardo - password
 
 > [!IMPORTANT]
 > none
@@ -39,7 +38,9 @@ with insomnia
 > none
 
 > [!TIP]
-> none
+> ![screenshot](https://github.com/sieke13/Develop14/blob/main/kanbaboard-1.jpg))
+> ![screenshot](https://github.com/sieke13/Develop14/blob/main/kanbaboard1.jpg)
+
 
 ## License
 
